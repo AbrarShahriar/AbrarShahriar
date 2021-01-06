@@ -25,18 +25,14 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][p]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][p]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][p]
+[<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />][p]
 <br />
 
 [<img align="left" alt="SQL" width="26px" src="http://www.pngall.com/wp-content/uploads/2016/04/Database-Free-Download-PNG.png" />][p]
 [<img align="left" alt="MySQL" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][p]
-[<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/668/668453.svg" />][p]
-<br />
-
 [<img align="left" alt="Git" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" />][p]
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][p]
-<br />
-
-[<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />][p]
+[<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/668/668453.svg" />][p]
 
 <br />
 <br />
