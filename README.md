@@ -18,12 +18,14 @@
 ### Languages and Tools:
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][p]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][p]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][p]
+[<img align="left" alt="Express" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.png" />][p]
 <br />
 
 [<img align="left" alt="MySQL" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][p]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.seekpng.com/png/full/383-3838960_mongodb-png.png" />][p]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][p]
+
 <br />
 <br />
 
