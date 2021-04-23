@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Web Developer!!
 
--  I just launched my first JavaScript Library: [View console in the DOM!!][library]!
+-  I am working on a JavaScript Library: [localStorage as Database?!😐][library]!
 -  I’m currently learning the **MERN Stack** as well as **RF Stack**.
 -  2021 Goals: <br>
         ▶️ Master React <br>
@@ -31,7 +31,7 @@
 
 ---
 
-[library]: https://github.com/AbrarShahriar/domsole.js
+[library]: https://github.com/AbrarShahriar/Locus
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
