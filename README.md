@@ -3,12 +3,10 @@
 ## I'm a Full-Stack Web Developer!!
 
 -  I am working on a JavaScript Library: [localStorage as Database?!😐][library]!
--  I’m currently learning the **NextJS**, **Typescript** and **GraphQL**.
--  2021 Goals: <br>
-        ▶️ Master NextJS <br>
-        ▶️ Release my JS Frontend library <br>
+-  I’m currently learning the **NextJS**, **NestJS**, **Typescript** and **GraphQL**.
+-  2023 Goals: <br>
+        ▶️ Master NextJS & NestJS <br>
         ▶️ Be comfortable with Typescript and GraphQL <br>
-        ▶️ Enjoy life!!🙃♥️ <br>
 
 ### Connect with me:
 
@@ -24,13 +22,13 @@
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][p]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][p]
-[<img align="left" alt="Express" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.png" />][p]
+[<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />][p]
 
 [<img align="left" alt="Next" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />][p]
 [<img align="left" alt="Typescript" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" />][p]
 [<img align="left" alt="GraphQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/21299071571548141943-512.png" />][p]
 
-[<img align="left" alt="MySQL" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][p]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][p]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.seekpng.com/png/full/383-3838960_mongodb-png.png" />][p]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][p]
 
