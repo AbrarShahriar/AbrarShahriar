@@ -1,12 +1,13 @@
-### Hello Internet, I'm Adib 🖐
+### Hello Internet, I'm Abrar 🖐
 
 ## I'm a Full-Stack Web Developer!!
 
--  I am working on a JavaScript Library: [localStorage as Database?!😐][library]!
--  I’m currently learning the **NextJS**, **NestJS**, **Typescript** and **GraphQL**.
--  2023 Goals: <br>
+- Currently I am working on a Vanilla JavaScript and Electron based note-taking app: [dMind](https://github.com/AbrarShahriar/dMind-desktop)
+-  I’m currently learning **NextJS**, **NestJS**, **Typescript** and **GraphQL**.
+-  2024 Goals: <br>
         ▶️ Master NextJS & NestJS <br>
         ▶️ Be comfortable with Typescript and GraphQL <br>
+        ▶️ Publish the stable release of dMind
 
 ### Connect with me:
 
