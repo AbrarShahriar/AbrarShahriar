@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Web Developer!!
 
-- Currently I am working on a Vanilla JavaScript and Electron based note-taking app: [dMind](https://github.com/AbrarShahriar/dMind-desktop)
+- Currently I am working on a Typescript and Electron based note-taking app: [dMind](https://github.com/AbrarShahriar/dMind-desktop)
 -  I’m currently learning **NextJS**, **NestJS**, **Typescript** and **GraphQL**.
 -  2024 Goals: <br>
         ▶️ Master NextJS & NestJS <br>
