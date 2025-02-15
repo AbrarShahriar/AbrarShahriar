@@ -1,62 +1,57 @@
-### Hello Internet, I'm Abrar 🖐
-
-## I'm a Full-Stack Web Developer!!
-
-- Currently I am working on a Typescript and Electron based note-taking app: [dMind](https://github.com/AbrarShahriar/dMind-desktop)
--  I’m currently learning **NextJS**, **NestJS**, **Typescript** and **GraphQL**.
--  2024 Goals: <br>
-        ▶️ Master NextJS & NestJS <br>
-        ▶️ Be comfortable with Typescript and GraphQL <br>
-        ▶️ Publish the stable release of dMind
-
-### Connect with me:
-
-[<img align="left" alt="AbrarShahriar | Facebook" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6432525231530103308-512.png" />][facebook]
-[<img align="left" alt="AbrarShahriar | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" />][instagram]
-[<img align="left" alt="AbrarShahriar | Youtube" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16216358401530103330-512.png" />][youtube]
-[<img align="left" alt="AbrarShahriar | Dev.to" width="22px" src="https://th.bing.com/th/id/R.b270efd3117ba8b9dae18898b9c58740?rik=NgCdDfWj6XZraQ&pid=ImgRaw&r=0" />][devto]
-[<img align="left" alt="AbrarShahriar | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/19743989771561032665-512.png" />][linkedin]
-
+<h1 align="center">Hello Internet, I'm Abrar 🖐</h1> 
+<p align="center">⬇️Connect with me⬇️</p>
+<div align="center">
+        <a href="https://abrarshahriar.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></img>
+        </a>
+        <a href="https://www.linkedin.com/in/abrar-shahriar-kabir/" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+        </a>
+        <a href="https://leetcode.com/u/AbrarShahriar/" target="_blank">
+                <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
+        </a>
+        <a href="https://www.youtube.com/@_abrar_shahriar_" target="_blank">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img>
+        </a>
+        <a href="https://dev.to/abrarshahriar" target="_blank">
+                <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></img>
+        </a>
+        <a href="https://www.facebook.com/abrar.shahriar.kabir/" target="_blank">
+                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
+        </a>
+        <a href="https://www.instagram.com/_abrar.shahriar_/" target="_blank">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+        </a>
+</div>
+<br/>
+<table>
+        <tr>
+                <td align="center">
+                        I'm a Full-Stack Web Developer currently invested in <strong>NextJS & NestJS</strong>. I'm also an student at BRAC University in the Deparment of Computer Science & Engineering. My primary habit has always been delving into new adventures. Whether it be <em>music production, 3D animation or mythology</em>, I have always tried to improve upon yesterday. 
+                </td>
+        </tr>
+</table>
 <br />
+<h3 align="center">Arsenal</h3>
 
-### Languages and Tools:
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][p]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][p]
-[<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />][p]
-
-[<img align="left" alt="Next" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />][p]
-[<img align="left" alt="Typescript" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" />][p]
-[<img align="left" alt="GraphQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/21299071571548141943-512.png" />][p]
-
-[<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][p]
-[<img align="left" alt="MongoDB" width="26px" src="https://www.seekpng.com/png/full/383-3838960_mongodb-png.png" />][p]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][p]
-
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,docker,postman,arduino" />
+           <br />
+     <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,express,electron" />
+           <br />
+     <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,postgres,redis" />
+        <br />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,sass,tailwind,py" />
+  </a>
+</p>
 <br />
-
-
----
-
-[library]: https://github.com/AbrarShahriar/Locus
-[instagram]: https://www.instagram.com/shahriar_adib1
-[youtube]: https://www.youtube.com/channel/UCln5YgvMjPJwVkCyKh3RGlw
-[devto]: https://dev.to/abrarshahriar
-[linkedin]: https://www.linkedin.com/in/abrar-shahriar-047397203/
-[facebook]: https://www.facebook.com/shahriar.adib.737
-[p]: https://github.com/AbrarShahriar
-
-<!--
-**AbrarShahriar/AbrarShahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Latest Content</h3> 
+<p align="center">
+        <a href="https://blog.abrarshahriar.com/blog/root-finding-1-bisection-method">
+                <img width="450px" src="https://blog.abrarshahriar.com/_next/image?url=%2Fblogs%2Fnumerical-methods%2F1.jpg&w=3840&q=75"></img>    
+        </a>
+</p>
+<p align="center">
+        <a href="https://blog.abrarshahriar.com/blog/root-finding-1-bisection-method"><strong>Root Finding #1: Bisection Method</strong></a>
+</p>
