@@ -56,3 +56,5 @@
 <p align="center">
         <a href="https://blog.abrarshahriar.com/blog/root-finding-1-bisection-method"><strong>Root Finding #1: Bisection Method</strong></a>
 </p>
+<h3 align="center">Open Source Contributions</h3> 
+<p align="center">Faker.js: <a href="https://github.com/faker-js/faker/pull/3439">Added Bangla Language Support</a></p>
